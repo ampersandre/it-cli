@@ -8,6 +8,8 @@ A command-line tool that does the following:
 
 If the ascii image is displayed, the git command will not be executed and you'll have to try again.
 
+## Installation
+`npm install -g it-cli`
 
 ## Usage
 ```
