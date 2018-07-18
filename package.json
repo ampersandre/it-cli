@@ -1,6 +1,6 @@
 {
   "name": "it-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A git command-line proxy that sometimes prints an image of Stephen King's It",
   "bin": {
     "it": "bin/it.sh"
