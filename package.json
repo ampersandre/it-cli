@@ -1,11 +1,10 @@
 {
   "name": "it-cli",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.1.0",
+  "description": "A git command-line proxy that sometimes prints an image of Stephen King's It",
   "bin": {
     "it": "bin/it.sh"
   },
-  "author": "",
+  "author": "Andre Mougeot",
   "license": "ISC"
 }
