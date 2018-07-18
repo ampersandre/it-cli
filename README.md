@@ -1,6 +1,6 @@
-=it-cli=
+# it-cli
 
-==Description==
+## Description
 
 A command-line tool that does the following:
 * 50% of the time, it just acts as an alias for `git`
@@ -9,7 +9,7 @@ A command-line tool that does the following:
 If the ascii image is displayed, the git command will not be executed and you'll have to try again.
 
 
-==Usage==
+## Usage
 ```
 it <git commands/options>
 ```
@@ -22,5 +22,5 @@ it add
 it commit -m "Hopefully It doesn't appear and this commit works"
 ```
 
-==Why==
+## Why
 I don't have a reason
